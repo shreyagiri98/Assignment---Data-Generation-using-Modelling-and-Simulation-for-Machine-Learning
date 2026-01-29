@@ -1,7 +1,7 @@
 # Assignment: Data Generation using Modelling and Simulation for Machine Learning
 
-**Name:** Devansh Wadhwani  
-**Roll No:** 102303631  
+**Name:** Shreya Giri
+**Roll No:** 102303684 
 
 ## Overview
 This project demonstrates the generation of synthetic data using a **discrete-event simulation (DES)** and subsequent analysis using various Machine Learning models. We simulated a **Call Center** environment to study the relationship between staffing levels, service times, and customer wait times.
@@ -50,8 +50,4 @@ The following table summarizes the performance of all models, sorted by R2 Score
 ### Best Model
 The **Gradient Boosting Regressor** achieved the highest accuracy with an **R2 Score of 0.8637**. This indicates that the non-linear relationship between queueing parameters and wait time is best captured by boosting ensemble methods.
 
-## Files
-- `102303631_Assignment5.ipynb`: Jupyter notebook containing the code.
-- `simulation_data.csv`: The generated dataset.
-- `generate_data.py`: Script used to run the SimPy simulation.
-- `README.md`: Project documentation.
+
